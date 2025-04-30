@@ -3,6 +3,7 @@ This repository contains the corpus of XAI papers that was reviewed for evidence
 
 Link to arxiv paper: [https://arxiv.org/abs/2503.16507](https://arxiv.org/abs/2503.16507) 
 
+Link to SERC case study article (general audiences and discussion questions for teaching): mit-serc.pubpub.org/pub/pt5lplzb/
 
 ----
 
